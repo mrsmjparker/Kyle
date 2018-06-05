@@ -1,0 +1,10 @@
+
+Using Pandoc
+
+
+
+c:\users\username\
+
+pandoc --extract-media=./pics chapter1.docx -o chapter1.md
+
+
